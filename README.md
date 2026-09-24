@@ -19,12 +19,12 @@ p53 is the most frequently mutated gene in human cancer, and unlike most tumour 
 **1. Mutations concentrate in the DNA-binding domain, dominated by a few hotspots.**
 The most frequently mutated residues were R273 (267 tumours), R248 (224) and R175 (167), matching the classic p53 hotspots reported in the literature. Residues C176 and H179, two of the four residues that coordinate p53's structural zinc ion, were also among the top 10.
 
-![Lollipop plot](figures/fig1_lollipop.png)
+![Lollipop plot](fig1_lollipop.png)
 
 **2. Hotspots are closer to DNA and more buried than other residues.**
 The 37 hotspot residues sat at a median of 10.1 Å from DNA versus 19.1 Å for other residues (p = 0.0001), and had a median solvent exposure of 6% versus 28% (p < 0.0001).
 
-![Distance vs burial](figures/fig2_distance_vs_burial.png)
+![Distance vs burial](fig2_distance_vs_burial.png)
 
 **3. DNA-contact and buried-core residues are strongly enriched for mutations.**
 
@@ -36,7 +36,7 @@ The 37 hotspot residues sat at a median of 10.1 Å from DNA versus 19.1 Å for o
 
 DNA-contact residues carry about three times their expected share of mutations, while exposed surface residues carry about a quarter of theirs. Together, the contact and core zones account for about half of the structure but 87% of mutations.
 
-![3D mutation frequency](figures/fig4_mutation_frequency_3d.png)
+![3D mutation frequency](fig4_mutation_frequency_3d.png)
 
 ## Interpretation
 These results are consistent with the two known classes of p53 mutation: **contact mutants** (e.g. R248, R273), which remove residues that directly grip DNA, and **structural mutants** (e.g. R175, Y220, the zinc-binding residues), which destabilize the protein's fold. In both cases p53 can no longer bind its target genes and activate cell-cycle arrest or apoptosis. Mutations on the exposed surface, which disrupt neither function, are rarely selected for in tumours.
