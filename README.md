@@ -1,7 +1,7 @@
 # Where does cancer break p53?
 ### A structural analysis of TP53 tumour mutations
 
-**[Your name]** · Honours Life Sciences, McMaster University · [Month] 2026
+**[Mohammad Elnakoury]** · Life Sciences Gateway, McMaster University · September 2026
 
 ## Question
 p53 is the most frequently mutated gene in human cancer, and unlike most tumour suppressors it is usually inactivated by single amino acid substitutions (missense mutations) rather than truncations. This project asks: **where on the p53 protein do these cancer mutations physically fall?** Specifically, do they concentrate at the surface that contacts DNA, in the buried core that holds the protein's fold together, or neither?
