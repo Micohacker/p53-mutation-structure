@@ -19,7 +19,7 @@ p53 is the most frequently mutated gene in human cancer, and unlike most tumour 
 **1. Mutations concentrate in the DNA-binding domain, dominated by a few hotspots.**
 The most frequently mutated residues were R273 (267 tumours), R248 (224) and R175 (167), matching the classic p53 hotspots reported in the literature. Residues C176 and H179, two of the four residues that coordinate p53's structural zinc ion, were also among the top 10.
 
-![Lollipop plot](fig1_lollipop.png)
+![Lollipop plot](fig1_lollipop..png)
 
 **2. Hotspots are closer to DNA and more buried than other residues.**
 The 37 hotspot residues sat at a median of 10.1 Å from DNA versus 19.1 Å for other residues (p = 0.0001), and had a median solvent exposure of 6% versus 28% (p < 0.0001).
